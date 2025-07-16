@@ -1,7 +1,7 @@
 
-# HACKINNO 🌟🚀
+# NEWSIEE🌟🚀
 
-Welcome to **HACKINNO** – a groundbreaking project designed to revolutionize news consumption with intelligent features for summarization, validity verification, and interactive engagement. This repository includes the code and resources for HACKINNO, showcasing a sophisticated system built with a diverse tech stack to deliver reliable news and an engaging user experience.
+Welcome to **NEWSIEE** – a groundbreaking project designed to revolutionize news consumption with intelligent features for summarization, validity verification, and interactive engagement. This repository includes the code and resources for NEWSIEE, showcasing a sophisticated system built with a diverse tech stack to deliver reliable news and an engaging user experience.
 
 ## Table of Contents 📚
 
